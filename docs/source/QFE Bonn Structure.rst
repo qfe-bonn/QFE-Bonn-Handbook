@@ -1,5 +1,5 @@
-Usage
-=====
+QFE Bonn Structure
+==================
 
 .. _installation:
 

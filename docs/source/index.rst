@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+QFE Bonn Handbook
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -18,5 +18,8 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   QFE Bonn Structure
+   Getting Started with QFE
+   Code of Conduct
+   Resources
+   FAQ

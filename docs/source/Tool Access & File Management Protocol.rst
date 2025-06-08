@@ -46,15 +46,16 @@ Tools in Use and Permissions
       5. Set to Public
 
    .. image:: images/organization_visibility.png
+      :align: center
 
 .. warning::
 
-   Keep your GitHub account up-to-date and secure.
+   * **Keep your GitHub account up-to-date and secure.**
 
-   Be respectful of others' work and contributions.
+   * **Be respectful of others' work and contributions.**
 
-   Always consult the board members before sharing documents externally.
+   * **Always consult the board members before sharing documents externally.**
 
-   Never upload sensitive or private data to public repositories or drives.
+   * **Never upload sensitive or private data to public repositories or drives.**
    
-   Be mindful of data storage and access restrictions when working on projects.
+   * **Be mindful of data storage and access restrictions when working on projects.**

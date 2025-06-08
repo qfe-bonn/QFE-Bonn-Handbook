@@ -21,5 +21,4 @@ Contents
    QFE Bonn Structure
    Getting Started with QFE
    Code of Conduct
-   Resources
    FAQ

@@ -1,34 +1,37 @@
 QFE Bonn Structure
 ==================
 
-.. _installation:
+.. _QFE Bonn Session Agenda: https://docs.google.com/spreadsheets/d/1f-JyNP6Vpq5yo3EHI-Pg1sf_6wvy7UxV/edit?gid=1591202998#gid=1591202998
 
-Installation
-------------
+Executive Board
+---------------
 
-To use Lumache, first install it using pip:
+The executive board consists of 6 members: President, Vice President, Treasurer, Marketing Chair, Tech Chair, Events Chair.
 
-.. code-block:: console
 
-   (.venv) $ pip install lumache
+Project Teams
+-------------
 
-Creating recipes
-----------------
+At QFE Bonn, we work across three focused teams:
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
++-------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Project Teams     | Area of Interest                                                                                                          |
++===================+===========================================================================================================================+
+| Economics Team    | We explore economic theory, policy analysis, and empirical research.                                                      |
+|                   | We dive into current economic challenges using modern tools like econometrics, structural modeling, and causal inference. |
++-------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Finance Team      | We focus on asset pricing, corporate finance, and financial markets.                                                      |
+|                   | We study real-world market behavior, build valuation models, and follow current developments in global finance.           |
++-------------------+---------------------------------------------------------------------------------------------------------------------------+
+| Quantitative Team | We work closely with coding, machine learning, and statistical modeling to solve complex analytical problems.             |
+|                   | We develop and apply mathematical models on both economics and finance topics.                                            |
++-------------------+---------------------------------------------------------------------------------------------------------------------------+
 
-.. autofunction:: lumache.get_random_ingredients
+Each team is led by 2 Team Co-heads. Each team organizes one monthly public-facing event or workshop on a rotating basis.
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+Project Session Structure
+-------------------------
 
-.. autoexception:: lumache.InvalidKindError
+We meet every other Friday from 14:00 to 16:00 in the lecture hall L of Juridicum.
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Our agenda: `QFE Bonn Session Agenda`_.

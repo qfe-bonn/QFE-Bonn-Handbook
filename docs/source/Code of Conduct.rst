@@ -82,7 +82,7 @@ Community leaders will follow these guidelines in determining the consequences f
 
 **1. Correction**
 
-Community Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+Community Impact: Use of language or other behavior deemed unprofessional or unwelcome in the community.
 
 Consequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate.
 

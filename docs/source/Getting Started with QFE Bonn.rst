@@ -83,7 +83,7 @@ If you wish to explore other languages, visit the **Coding Category** on the **R
 
 Kaggle offers free, interactive courses that are part of our pipeline.
 
-Sign up at: `kaggle.com`
+Sign up at: `kaggle.com`_
 
 **2. Basic Python Coding**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -107,11 +107,7 @@ Sign up at: `kaggle.com`
 
 * `QFE Bonn Beginner Notebook <https://github.com/qfe-bonn/Learning-materials/blob/main/QFE_Bonn_Beginner_Notebook.ipynb>`_
 
-  Learn basic data importing and cleaning using `GMD` and `yfinance` datasets.
-
-* QFE Bonn Intermediate Notebook:
-
-  Learn web scraping and advanced data handling using `QNT`, `requests`, `BeautifulSoup`, and `Selenium`.
+* QFE Bonn Intermediate Notebook
 
 **4. Introduction to Models**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,9 +122,9 @@ Sign up at: `kaggle.com`
 
 * Probability & Statistics:
 
-   * Jon Krohn's `Machine Learning Foundations` `Probability & Information Theory <https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/5-probability.ipynb>`_
+   * Jon Krohn's `Machine Learning Foundations`: `Probability & Information Theory <https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/5-probability.ipynb>`_
 
-   * Jon Krohn's `Machine Learning Foundations` `Intro to Statistics <https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/6-statistics.ipynb>`_
+   * Jon Krohn's `Machine Learning Foundations`: `Intro to Statistics <https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/6-statistics.ipynb>`_
 
 **5. Additional Recommended Resources**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -154,7 +150,7 @@ Sign up at: `kaggle.com`
 **6. Revisit Past Projects**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Check out our **`Project Log`_**.
+* Check out our `Project Log`_.
 
 * Browse our past work on GitHub: `github.com/qfe-bonn`_
 

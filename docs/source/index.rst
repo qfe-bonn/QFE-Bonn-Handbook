@@ -1,6 +1,8 @@
 Welcome to QFE Bonn Handbook
 ============================
 
+.. _qfe-bonn.github.io: https://qfe-bonn.github.io/
+
 This is the official *handbook* of the **Quantitative Finance & Economics Bonn (QFE Bonn)**.
 
 It is designed to provide **new and current members** with all the essential information they need to actively participate in the organization,
@@ -8,13 +10,15 @@ understand its structure, and contribute to our collaborative projects.
 
 While the primary audience is our members, the handbook is also publicly accessible so that anyone interested in QFE Bonn can understand who we are and what we do.
 
+Check out our official website for more information: `qfe-bonn.github.io`_
+
 What This Handbook Covers
 --------------------------
 
 The handbook includes:
 
 - **QFE Bonn Structure**: Who we are, what we do, how we're structured and what to expect in regular sessions and workshops.
-- **Getting Started with QFE**: Learn how to participate in our projects and gain skills through beginner-friendly pipelines.
+- **Getting Started with QFE Bonn**: Learn how to participate in our projects and gain skills through beginner-friendly pipelines.
 - **Tool Access & File Management Protocol**: Where we store materials and how members access tools.
 - **Code of Conduct**: Expectations around behavior, inclusion, and ethics.
 - **FAQ**: Common questions about **QFE Bonn**.
@@ -48,10 +52,9 @@ Contents
 .. toctree::
 
    QFE Bonn Structure
-   Getting Started with QFE
+   Getting Started with QFE Bonn
    Tool Access & File Management Protocol
    Code of Conduct
    FAQ
 
-Welcome to the QFE Bonn journey!
-
+**Welcome to the journey!**

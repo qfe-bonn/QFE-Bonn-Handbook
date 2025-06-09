@@ -57,5 +57,5 @@ Tools in Use and Permissions
    * **Always consult the board members before sharing documents externally.**
 
    * **Never upload sensitive or private data to public repositories or drives.**
-   
+
    * **Be mindful of data storage and access restrictions when working on projects.**

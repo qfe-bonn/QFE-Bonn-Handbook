@@ -33,9 +33,9 @@ Examples of behavior that contributes to a positive environment for our communit
 Examples of unacceptable behavior include:
 
 * **Be careful in the words that you choose.** This includes, but is not limited to:
-   
+
    * The use of sexualized language or imagery, and sexual attention or advances of any kind.
-   
+
    * Violent threats or language directed against another person.
 
    * Discriminatory jokes or language, and personal or political attacks.

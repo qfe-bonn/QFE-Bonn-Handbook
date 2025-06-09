@@ -58,9 +58,12 @@ Now that you've joined a team and set up your tools, it's time to start learning
 Your next step is to **move directly to the Beginner Pipeline section below on this same page.**
 
 There, you'll find:
-- A step-by-step learning path for Python and data science basics.
-- Free beginner-friendly courses and recommended resources.
-- QFE Bonn's custom beginner and intermediate notebooks.
+
+* A step-by-step learning path for Python and data science basics.
+
+* Free beginner-friendly courses and recommended resources.
+
+* QFE Bonn's custom beginner and intermediate notebooks.
 
 This pipeline will help you build the essential skills you need to contribute confidently to your team's projects.
 
@@ -78,66 +81,67 @@ If you wish to explore other languages, visit the **Coding Category** on the **R
 **1. Set up a Kaggle Account**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Kaggle offers free, interactive courses that are part of our pipeline.  
+Kaggle offers free, interactive courses that are part of our pipeline.
+
 Sign up at: `kaggle.com`
 
 **2. Basic Python Coding**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Kaggle Courses:
-  
-  * `Python <https://www.kaggle.com/learn/python>`_
-  
-  * `Intro to Programming <https://www.kaggle.com/learn/intro-to-programming>`_
+
+   * `Python <https://www.kaggle.com/learn/python>`_
+
+   * `Intro to Programming <https://www.kaggle.com/learn/intro-to-programming>`_
 
 **3. Data Handling & Data Cleaning**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Kaggle Courses:
 
-  * `Pandas <https://www.kaggle.com/learn/pandas>`_
-  
-  * `Data Cleaning <https://www.kaggle.com/learn/data-cleaning>`_
-  
-  * `Data Visualization <https://www.kaggle.com/learn/data-visualization>`_
+   * `Pandas <https://www.kaggle.com/learn/pandas>`_
 
-* `QFE Bonn Beginner Notebook <https://github.com/qfe-bonn/Learning-materials/blob/main/QFE_Bonn_Beginner_Notebook.ipynb>`_:
-  
+   * `Data Cleaning <https://www.kaggle.com/learn/data-cleaning>`_
+
+   * `Data Visualization <https://www.kaggle.com/learn/data-visualization>`_
+
+* `QFE Bonn Beginner Notebook <https://github.com/qfe-bonn/Learning-materials/blob/main/QFE_Bonn_Beginner_Notebook.ipynb>`_
+
   Learn basic data importing and cleaning using `GMD` and `yfinance` datasets.
 
 * QFE Bonn Intermediate Notebook:
-  
+
   Learn web scraping and advanced data handling using `QNT`, `requests`, `BeautifulSoup`, and `Selenium`.
 
 **4. Introduction to Models**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Kaggle Courses:
-  
-  * `Intro to Machine Learning <https://www.kaggle.com/learn/intro-to-machine-learning>`_
-  
-  * `Intermediate Machine Learning <https://www.kaggle.com/learn/intermediate-machine-learning>`_
-  
-  * `Time Series <https://www.kaggle.com/learn/time-series>`_
+
+   * `Intro to Machine Learning <https://www.kaggle.com/learn/intro-to-machine-learning>`_
+
+   * `Intermediate Machine Learning <https://www.kaggle.com/learn/intermediate-machine-learning>`_
+
+   * `Time Series <https://www.kaggle.com/learn/time-series>`_
 
 * Probability & Statistics:
 
-  * Jon Krohn's `Machine Learning Foundations` `Probability & Information Theory <https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/5-probability.ipynb>`_
+   * Jon Krohn's `Machine Learning Foundations` `Probability & Information Theory <https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/5-probability.ipynb>`_
 
-  * Jon Krohn's `Machine Learning Foundations` `Intro to Statistics <https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/6-statistics.ipynb>`_
+   * Jon Krohn's `Machine Learning Foundations` `Intro to Statistics <https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/6-statistics.ipynb>`_
 
 **5. Additional Recommended Resources**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Popular Kaggle Machine Learning Notebooks:
 
-    * `Algorithm 1 <https://www.kaggle.com/code/egazakharenko/all-popular-ml-algorithms-from-scratch-in-python>`_
+   * `Algorithm 1 <https://www.kaggle.com/code/egazakharenko/all-popular-ml-algorithms-from-scratch-in-python>`_
 
-    * `Algorithm 2 <https://www.kaggle.com/code/maianhdang/all-in-one-notebook-common-ml-algorithms>`_
+   * `Algorithm 2 <https://www.kaggle.com/code/maianhdang/all-in-one-notebook-common-ml-algorithms>`_
 
-    * `Metrics <https://www.kaggle.com/discussions/general/492420>`_
+   * `Metrics <https://www.kaggle.com/discussions/general/492420>`_
 
-    * `Trend Analysis <https://www.kaggle.com/code/ruchi798/a-tale-of-two-cities-analyzing-trends>`_
+   * `Trend Analysis <https://www.kaggle.com/code/ruchi798/a-tale-of-two-cities-analyzing-trends>`_
 
 * `Applied Causal Inference Powered by ML and AI <https://chapters.causalml-book.org/CausalML_book_2022.pdf>`_
 

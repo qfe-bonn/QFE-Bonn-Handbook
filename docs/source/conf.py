@@ -37,3 +37,7 @@ html_theme_options = {
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+latex_elements = {
+    'extraclassoptions': 'openany'
+}

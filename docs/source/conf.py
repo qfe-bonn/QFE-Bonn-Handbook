@@ -40,5 +40,8 @@ epub_show_urls = 'footnote'
 
 latex_elements = {
     'extraclassoptions': 'openany,oneside',
-    'classoptions': 'openany,oneside'
+    'classoptions': 'openany,oneside',
+    'preamble': r'''
+\let\cleardoublepage\clearpage
+''',
 }

@@ -8,8 +8,6 @@ FAQ
 General
 -------
 
-Community leaders will follow these guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
-
 **Q: What is QFE Bonn?**
 
 A: The full name of QFE Bonn is Quantitative Finance & Economics Bonn. It connects university students who share a passion for learning and personal growth to explore real-world quantitative problems using data science.

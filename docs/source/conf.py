@@ -39,5 +39,5 @@ html_theme_options = {
 epub_show_urls = 'footnote'
 
 latex_elements = {
-    'extraclassoptions': 'openany'
+    'classoptions': ',openany,oneside'  # This allows chapters to start on any page
 }

@@ -17,4 +17,4 @@ formats:
   - epub
 
 translations:
-  zh: docs
+  zh: docs/source

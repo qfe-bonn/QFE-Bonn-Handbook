@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, QFE Bonn
+# This file is distributed under the same license as the QFE Bonn Handbook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QFE Bonn Handbook 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-15 16:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../QFE Bonn Structure.rst:2
+msgid "QFE Bonn Structure"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:6
+msgid ""
+"**QFE Bonn** is organized into an *Executive Board* and three specialized"
+" *Project Teams*."
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:9
+msgid "Executive Board"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:11
+msgid ""
+"The executive board consists of 6 members: President, Vice President, "
+"Treasurer, Marketing Chair, Tech Chair and Events Chair."
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:14
+msgid "**Board Roles**"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:14
+msgid "**Main Responsibilities**"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:16
+msgid "President"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:16
+msgid "provides overall leadership"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:17
+msgid "represents the organization externally"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:19
+msgid "Vice President"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:19
+msgid "ensures internal coordination"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:20
+msgid "acts as President when needed"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:22
+msgid "Treasurer"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:22
+msgid "manages finances"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:23
+msgid "tracks budget and reimbursements"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:25
+msgid "Marketing Chair"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:25
+msgid "manages communication"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:26
+msgid "oversees social media presence"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:28
+msgid "Tech Chair"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:28
+msgid "manages the technical infrastructure and tools"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:29
+msgid "assists with tech setup"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:31
+msgid "Events Chair"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:31
+msgid "organizes and oversees events"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:32
+msgid "coordinates logistics"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:36
+msgid "Project Teams"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:38
+msgid "At QFE Bonn, we work across three focused teams:"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:41
+msgid "**Project Teams**"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:41
+msgid "**Area of Interest**"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:43
+msgid "Economics Team"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:43
+msgid "we explore economic theory, policy analysis, and empirical research"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:44
+msgid ""
+"we dive into current economic challenges using modern tools like "
+"econometrics, structural modeling, and causal inference"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:46
+msgid "Finance Team"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:46
+msgid "we focus on asset pricing, corporate finance, and financial markets"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:47
+msgid ""
+"we study real-world market behavior, build valuation models, and follow "
+"current developments in global finance"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:49
+msgid "Quantitative Team"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:49
+msgid ""
+"we work closely with coding, machine learning, and statistical modeling "
+"to solve complex analytical problems"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:50
+msgid ""
+"we develop and apply mathematical models on both economics and finance "
+"topics"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:53
+msgid ""
+"Each team is led by 2 Team Co-heads. Each team organizes one monthly "
+"public-facing event or workshop on a rotating basis."
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:56
+msgid "Project Session Structure"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:58
+msgid ""
+"Regular deep dives into team projects with updates, discussion, "
+"presentation, task allocation, and guided feedback. We meet every other "
+"Friday from 14:00 to 16:00 in the lecture hall L of Juridicum, University"
+" of Bonn."
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:61
+msgid "Our agenda: `QFE Bonn Session Agenda`_."
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:64
+msgid "Other Events"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:66
+msgid "We also have other events other than our bi-weekly project session."
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:69
+msgid "**Event**"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:69
+msgid "**Description**"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:71
+msgid "Semester Kickoff"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:71
+msgid "at the beginning of the semester"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:72
+msgid "begin the semester with introduction, planning and team formation"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:74
+msgid "Semester Showcase"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:74
+msgid "at the end of the semester"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:75
+msgid "end the semester with project presentations and reflections"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:77
+msgid "Monthly Public Event"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:77
+msgid "once a month"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:78
+msgid "each team hosts a rotating workshop or event to share knowledge publicly"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:80
+msgid "Quant Day"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:80
+msgid "once per semester"
+msgstr ""
+
+#: ../../QFE Bonn Structure.rst:81
+msgid ""
+"a themed internal competition featuring coding problems, quizzes, or "
+"model challenges"
+msgstr ""
+

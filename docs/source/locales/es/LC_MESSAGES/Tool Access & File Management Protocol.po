@@ -1,0 +1,234 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, QFE Bonn
+# This file is distributed under the same license as the QFE Bonn Handbook
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QFE Bonn Handbook 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-15 16:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: & ../../Tool Access File Management Protocol.rst:2
+msgid "Tool Access & File Management Protocol"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:4
+msgid ""
+"Proper management of our files, code, and collaboration tools ensures "
+"security, transparency, and productivity for all members. Below is our "
+"standard protocol for storing, sharing, and accessing organization "
+"materials."
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:8
+msgid "File Organization Guidelines"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:11
+msgid "**Content Type**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:11
+msgid "**Storage Location**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:11
+msgid "**Notes**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:13
+msgid "Project Session Presentations"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:13
+msgid "Public Google Drive > */session_presentation_archive/*"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:13
+msgid ""
+"Publicly readable; Divided into two subfolders: */project session/* and "
+"*/public event/*"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:15
+msgid "Public Event Materials"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:15
+msgid "Public Google Drive > */events_materials_archive/*"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:15
+msgid "Publicly readable; Structured with a separate folder for each public event"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:17
+msgid "Agendas"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:17
+msgid "Public Google Drive > */agenda_archive/*"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:17 Protocol.rst:23
+msgid "Publicly readable"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:19
+msgid "Internal Documents"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:19
+msgid "Private Google Drive"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:19
+msgid "Private; For internal use only"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:21
+msgid "Programming Projects"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:21
+msgid "GitHub Organization Repositories"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:21
+msgid "Publicly readable; Repositories organized by semester and project topic"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:23
+msgid "Past Members List"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:23
+msgid "Public Google Drive > */past_members/*"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:27
+msgid "Tools in Use and Permissions"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:30
+msgid "**Tool**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:30
+msgid "**Purpose**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:30
+msgid "**Member Access**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:30
+msgid "**Contact**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:32
+msgid "*Public* Google Drive"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:32
+msgid "Shared presentations, Event agenda and materials"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:32
+msgid "Edit access is automatically granted upon becoming a member"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:32 Protocol.rst:34
+msgid "Board Members"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:34
+msgid "*Private* Google Drive"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:34
+msgid "Internal operations documents"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:34
+msgid "Restricted, request for edit access"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:36
+msgid "GitHub"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:36
+msgid "Code repositories"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:36
+msgid "Access varies by role/project"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:36
+msgid "Tech Chair"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:41
+msgid ""
+"If you want to display yourself as one of our contributors on our GitHub,"
+" follow these steps:"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:42
+msgid "Go to GitHub"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:43
+msgid "Your organizations"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:44
+msgid "\"qfe-bonn\""
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:45
+msgid "Private"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:46
+msgid "Set to Public"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:53
+msgid "**Keep your GitHub account up-to-date and secure.**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:55
+msgid "**Be respectful of others' work and contributions.**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:57
+msgid "**Always consult the board members before sharing documents externally.**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:59
+msgid ""
+"**Never upload sensitive or private data to public repositories or "
+"drives.**"
+msgstr ""
+
+#: & ../../Tool Access File Management Protocol.rst:61
+msgid ""
+"**Be mindful of data storage and access restrictions when working on "
+"projects.**"
+msgstr ""
+

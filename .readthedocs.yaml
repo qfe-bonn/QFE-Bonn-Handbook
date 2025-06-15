@@ -15,3 +15,6 @@ sphinx:
 formats:
   - pdf
   - epub
+
+translations:
+  zh: docs

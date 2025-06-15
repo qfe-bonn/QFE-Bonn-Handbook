@@ -25,9 +25,6 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-locale_dirs = ['locales/']  # Path to your translation folders
-gettext_compact = False     # Recommended for larger projects
-
 templates_path = ['_templates']
 
 # -- Options for HTML output
